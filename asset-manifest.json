@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/CineFlix/static/css/main.51a36ad5.css",
-    "main.js": "/CineFlix/static/js/main.9df4bc52.js",
+    "main.js": "/CineFlix/static/js/main.e7b51634.js",
     "static/js/488.23190ed7.chunk.js": "/CineFlix/static/js/488.23190ed7.chunk.js",
     "index.html": "/CineFlix/index.html",
     "main.51a36ad5.css.map": "/CineFlix/static/css/main.51a36ad5.css.map",
-    "main.9df4bc52.js.map": "/CineFlix/static/js/main.9df4bc52.js.map",
+    "main.e7b51634.js.map": "/CineFlix/static/js/main.e7b51634.js.map",
     "488.23190ed7.chunk.js.map": "/CineFlix/static/js/488.23190ed7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.51a36ad5.css",
-    "static/js/main.9df4bc52.js"
+    "static/js/main.e7b51634.js"
   ]
 }
